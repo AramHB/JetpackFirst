@@ -2,6 +2,9 @@
 
 buildscript {
     ext.kotlin_version = '1.2.71'
+    ext.retrofit_version = '2.4.0'
+    ext.apk_name = 'JetpckFirst'
+
     repositories {
         google()
         jcenter()

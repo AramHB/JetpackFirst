@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">JetpackFirst</string>
+    <string name="page">Page</string>
+    <string name="results">Results</string>
+    <string name="seed">Seed</string>
+    <string name="default_page">1</string>
+    <string name="default_results">10</string>
+    <string name="default_seed">abc</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="unavailable_data">Data is Unavailable. \n Please try with another credentials.</string>
 </resources>
